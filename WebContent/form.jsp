@@ -11,6 +11,7 @@
 		이 메 일 : 
 		<input type="text"  name="email"/> <br /><br />
 		
+		
 		비밀번호 : 
 		<input type="password" name="pwd"/> <br /><br />
 		
